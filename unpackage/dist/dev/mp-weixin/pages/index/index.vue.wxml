@@ -1,0 +1,5 @@
+<template name="77a9e9eb">
+  <view class="_view data-v-10360e79 content">
+    <text class="_text data-v-10360e79 title">{{title}}</text>
+  </view>
+</template>
